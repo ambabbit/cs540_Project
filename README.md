@@ -21,4 +21,4 @@ The results of the generalization once joined with the geom of the parcels based
 ## How to Use Data
 There are several ways to import my data set and utilize it. I will run through those options here step by step as well as link a video showing how to do it at the bottom of this section.
 ### Option 1: Restore from SQL Script
-The 
+Download the [Parcel_Generic_LUC_Table.sql](https://github.com/ambabbit/cs540_Project/blob/main/parcel_generic_luc_table.sql) script. After you finish installing open pgAdmin and log into your database. Once logged in and connected, right click on the volusia scheme and click on Restore option seen in image below 
