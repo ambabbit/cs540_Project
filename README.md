@@ -14,4 +14,6 @@ The problem solved in this github is the cleaning and generalization of Land Use
 
 The LUC before generialization has 87 distinct catagories for parcels which some users might find less useful when compared to the 8 after the generalization I am preforming
 
+## QGIS
+The results of the generalization once joined with the geom of the parcels based on the parid is show in the following image. This data is color coded as shown in the left of the image. 
 ![Image of QGIS results](https://github.com/ambabbit/cs540_Project/blob/main/Images/Generic_Image.PNG?raw=true)
