@@ -17,3 +17,8 @@ The LUC before generialization has 87 distinct catagories for parcels which some
 ## QGIS
 The results of the generalization once joined with the geom of the parcels based on the parid is show in the following image. This data is color coded as shown in the left of the image. 
 ![Image of QGIS results](https://github.com/ambabbit/cs540_Project/blob/main/Images/Generic_Image.PNG?raw=true)
+
+## How to Use Data
+There are several ways to import my data set and utilize it. I will run through those options here step by step as well as link a video showing how to do it at the bottom of this section.
+### Option 1: Restore from SQL Script
+The 
