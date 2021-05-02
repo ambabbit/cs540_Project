@@ -12,3 +12,5 @@ The problem solved in this github is the cleaning and generalization of Land Use
 * Non-Agricultural Acreage
 * Residential
 The LUC before generialization has 87 distinct catagories for parcels which some users might find less useful when compared to the 8 after the generalization I am preforming
+
+https://github.com/ambabbit/cs540_Project/blob/main/Images/Generic_Image.PNG?raw=true
