@@ -37,7 +37,7 @@ In order to create the table you must run the following script
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/brRnnZlcht0"> </iframe>
+  <iframe src="https://www.youtube.com/embed/brRnnZlcht0"></iframe>
 </figure>
 <!-- blank line -->
 
