@@ -44,7 +44,11 @@ CREATE TABLE volusia.luc_generic
 )
 ```
 
-After you created the table download the [csv](https://github.com/ambabbit/cs540_Project/blob/main/LUC_Generic_Data.zip)
+After you created the table download the [csv](https://github.com/ambabbit/cs540_Project/blob/main/LUC_Generic_Data.zip) and pay attention to where it is downloaded. Next you have to put the following script into pgAdmin changing the file location to the location on your device.
+
+```sql
+COPY volusia.luc_generic FROM 'D:\cs540\project\cs540_Project\LUC_Generic_Data.csv' WITH (FORMAT 'csv', DELIMITER E',', NULL '', HEADER);
+```
 
 <!-- blank line -->
 <figure class="video_container">
