@@ -35,7 +35,8 @@ From this point just follow the prompt and the table will be imported containing
 
 In order to create the table you must run the following script
 
-
+<!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=brRnnZlcht0&ab_channel=EliseandSam" frameborder="0" allowfullscreen="true"></iframe>
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+<!-- blank line -->
