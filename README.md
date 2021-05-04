@@ -44,11 +44,11 @@ CREATE TABLE volusia.luc_generic
 )
 ```
 
-After you created the table download the [csv](
+After you created the table download the [csv](https://github.com/ambabbit/cs540_Project/blob/main/LUC_Generic_Data.zip) and pay attention to where it is downloaded. Next you have to put the following script into pgAdmin changing the file location to the location on your device.
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/brRnnZlcht0"></iframe>
-</figure>
-<!-- blank line -->
+```sql
+COPY volusia.luc_generic FROM 'D:\cs540\project\cs540_Project\LUC_Generic_Data.csv' WITH (FORMAT 'csv', DELIMITER E',', NULL '', HEADER);
+```
 
+## Data Information
+The data used for this project was gathered from the volusia.parcel table and the luc and luc_desc specifically as well as information provided by professor Lehr. In the following video I discuss the problem, my solution, how you can repeat it, and how to use the data.
