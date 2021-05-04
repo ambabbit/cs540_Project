@@ -44,7 +44,7 @@ CREATE TABLE volusia.luc_generic
 )
 ```
 
-After you created the table download the [csv](
+After you created the table download the [csv](https://github.com/ambabbit/cs540_Project/blob/main/LUC_Generic_Data.zip)
 
 <!-- blank line -->
 <figure class="video_container">
