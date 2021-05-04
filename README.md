@@ -44,6 +44,8 @@ CREATE TABLE volusia.luc_generic
 )
 ```
 
+After you created the table download the [csv](
+
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/brRnnZlcht0"></iframe>
