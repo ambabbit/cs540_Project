@@ -50,9 +50,5 @@ After you created the table download the [csv](https://github.com/ambabbit/cs540
 COPY volusia.luc_generic FROM 'D:\cs540\project\cs540_Project\LUC_Generic_Data.csv' WITH (FORMAT 'csv', DELIMITER E',', NULL '', HEADER);
 ```
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/brRnnZlcht0"></iframe>
-</figure>
-<!-- blank line -->
-
+## Data Information
+The data used for this project was gathered from the volusia.parcel table and the luc and luc_desc specifically as well as information provided by professor Lehr. In the following video I discuss the problem, my solution, how you can repeat it, and how to use the data.
