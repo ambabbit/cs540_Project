@@ -35,6 +35,15 @@ From this point just follow the prompt and the table will be imported containing
 
 In order to create the table you must run the following script
 
+```sql
+CREATE TABLE volusia.luc_generic
+(
+    parid double precision,
+    geom geometry(MultiPolygon,2236),
+    luc_generic_desc character varying(255) COLLATE pg_catalog."default"
+)
+```
+
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/brRnnZlcht0"></iframe>
