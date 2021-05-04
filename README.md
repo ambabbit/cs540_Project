@@ -29,3 +29,13 @@ Then select the file browser. Once there be sure to change the file type from ba
 
 ![Select SQL](https://github.com/ambabbit/cs540_Project/blob/main/Images/sql.png)
 
+From this point just follow the prompt and the table will be imported containing all the data 
+
+### Option 2: CSV Import
+
+In order to create the table you must run the following script
+
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=brRnnZlcht0&ab_channel=EliseandSam" frameborder="0" allowfullscreen="true"></iframe>
+</figure>
